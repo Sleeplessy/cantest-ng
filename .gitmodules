@@ -1,0 +1,6 @@
+[submodule "lib/ccel"]
+	path = lib/ccel
+	url = https://github.com/Sleeplessy/ccel.git
+[submodule "lib/rang"]
+	path = lib/rang
+	url = https://github.com/agauniyal/rang.git
